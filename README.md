@@ -9,8 +9,8 @@ The Weather Application is a web-based project created using HTML, CSS, and Java
 • **Current Location:** For convenience, the application provides an option to fetch the weather data for the user's current location, allowing for quick access to local weather information.
 
 ### Languages Used
-• **HTML:** The structure of the application is built using HTML, ensuring a clean and organized layout.
-• **CSS:** CSS is employed to style the user interface, providing an intuitive and visually appealing experience.
+• **HTML:** The structure of the application is built using HTML, ensuring a clean and organized layout.<br/>
+• **CSS:** CSS is employed to style the user interface, providing an intuitive and visually appealing experience.<br/>
 • **JavaScript:** JavaScript is the backbone of the application, responsible for fetching data from the OpenWeather API, processing it, and dynamically updating the UI with the latest weather information.
 
 ### API Integration
