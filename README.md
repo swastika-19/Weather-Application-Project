@@ -4,7 +4,7 @@
 The Weather Application is a web-based project created using HTML, CSS, and JavaScript, designed to provide users with up-to-date weather information for any city worldwide. Leveraging the OpenWeather API, this application offers a seamless experience for accessing both current day and 5-day forecasts, including crucial metrics like temperature, wind speed, and humidity.
 
 ### Key Features
-• **City Search:** Users can easily search for any city, gaining immediate access to its current weather conditions and a detailed forecast for the upcoming 5 days.
+• **City Search:** Users can easily search for any city, gaining immediate access to its current weather conditions and a detailed forecast for the upcoming 5 days.<br/>
 • **Comprehensive Forecast Data:** Users can easily search for any city, gaining immediate access to its current weather conditions and a detailed forecast for the upcoming 5 days.
 • **Current Location:** For convenience, the application provides an option to fetch the weather data for the user's current location, allowing for quick access to local weather information.
 
