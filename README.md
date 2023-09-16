@@ -1,4 +1,4 @@
-## Project Title: Weather Application
+# Project Title: Weather Application
 
 ### Description
 The Weather Application is a web-based project created using HTML, CSS, and JavaScript, designed to provide users with up-to-date weather information for any city worldwide. Leveraging the OpenWeather API, this application offers a seamless experience for accessing both current day and 5-day forecasts, including crucial metrics like temperature, wind speed, and humidity.
