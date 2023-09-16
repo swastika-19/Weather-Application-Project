@@ -5,7 +5,7 @@ The Weather Application is a web-based project created using HTML, CSS, and Java
 
 ### Key Features
 • **City Search:** Users can easily search for any city, gaining immediate access to its current weather conditions and a detailed forecast for the upcoming 5 days.<br/>
-• **Comprehensive Forecast Data:** Users can easily search for any city, gaining immediate access to its current weather conditions and a detailed forecast for the upcoming 5 days.
+• **Comprehensive Forecast Data:** Users can easily search for any city, gaining immediate access to its current weather conditions and a detailed forecast for the upcoming 5 days.<br/>
 • **Current Location:** For convenience, the application provides an option to fetch the weather data for the user's current location, allowing for quick access to local weather information.
 
 ### Languages Used
